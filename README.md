@@ -1,0 +1,1 @@
+dont forget to run project on mobile view to have the best performance
